@@ -1,0 +1,6 @@
+check if cin already exist
+check if dose already exist - disable 1st dose/2nd dose menu
+check if fully vaccinated - indication alert
+if 1st dose aldready done lock 1st dose vaccin 
+OR 
+if vaccinated with at least one vaccin disable "se vacciner"
